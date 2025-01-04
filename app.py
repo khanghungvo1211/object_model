@@ -23,9 +23,9 @@ model_path = r"best.pt"
 # Configuration for Cloudinary
 def configure_cloudinary():
     cloudinary.config(
-        cloud_name="hcvu40dvj",
-        api_key="523379171599888",
-        api_secret="pD2VU84Ew_KMETn0o-6kdbjPFnU"
+        cloud_name="dvztkfaxq",
+        api_key="691474123142196",
+        api_secret="3vXJhc1u8kFH06ZwVR_x62n13iQ"
     )
 
 # Load the YOLO model
